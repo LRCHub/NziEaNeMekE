@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Jump up HIGH!!",
+  "base_artist": "Aqours",
+  "createdAt": "2025-12-12T19:01:51.050996Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Jump up HIGH!!",
+      "artist": "Aqours",
+      "has_synced": true,
+      "path": "select/01_Jump_up_HIGH!!_Aqours.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Jump up HIGH!! (AZALEA ver.)",
+      "artist": "AZALEA",
+      "has_synced": true,
+      "path": "select/02_Jump_up_HIGH!!_(AZALEA_ver.)_AZALEA.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Jump up HIGH!! (CYaRon! ver.)",
+      "artist": "CYaRon!",
+      "has_synced": true,
+      "path": "select/03_Jump_up_HIGH!!_(CYaRon!_ver.)_CYaRon!.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Jump up HIGH!! (Guilty Kiss ver.)",
+      "artist": "Guilty Kiss",
+      "has_synced": true,
+      "path": "select/04_Jump_up_HIGH!!_(Guilty_Kiss_ver.)_Guilty_Kiss.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Jump up HIGH!!",
+      "artist": "Aqours",
+      "has_synced": false,
+      "path": "select/05_Jump_up_HIGH!!_Aqours.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Jump up HIGH!! (AZALEA Ver.)",
+      "artist": "AZALEA",
+      "has_synced": false,
+      "path": "select/06_Jump_up_HIGH!!_(AZALEA_Ver.)_AZALEA.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Jump up HIGH!! (CYaRon! Ver.)",
+      "artist": "CYaRon!",
+      "has_synced": false,
+      "path": "select/07_Jump_up_HIGH!!_(CYaRon!_Ver.)_CYaRon!.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Jump up HIGH!! (Off Vocal)",
+      "artist": "Aqours",
+      "has_synced": false,
+      "path": "select/08_Jump_up_HIGH!!_(Off_Vocal)_Aqours.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Jump up HIGH!! (Off Vocal)",
+      "artist": "Aqours",
+      "has_synced": true,
+      "path": "select/09_Jump_up_HIGH!!_(Off_Vocal)_Aqours.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Jump up HIGH!!",
+      "artist": "Aqours",
+      "has_synced": true,
+      "path": "select/10_Jump_up_HIGH!!_Aqours.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Jump up HIGH!! (Guilty Kiss ver.)",
+      "artist": "Guilty Kiss",
+      "has_synced": true,
+      "path": "select/11_Jump_up_HIGH!!_(Guilty_Kiss_ver.)_Guilty_Kiss.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Jump up HIGH!! (AZALEA ver.)",
+      "artist": "AZALEA",
+      "has_synced": true,
+      "path": "select/12_Jump_up_HIGH!!_(AZALEA_ver.)_AZALEA.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Jump up HIGH!!",
+      "artist": "Aqours",
+      "has_synced": true,
+      "path": "select/13_Jump_up_HIGH!!_Aqours.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Jump up HIGH!!",
+      "artist": "Aqours",
+      "has_synced": false,
+      "path": "select/pl_01_Jump_up_HIGH!!_Aqours.txt"
+    }
+  ]
+}
